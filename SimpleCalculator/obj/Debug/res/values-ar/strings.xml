@@ -1,0 +1,1 @@
+<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">Simple Calculator</string><string name="FirstNumber">الرقم الاول</string><string name="SecondNumber">الرقم الثانى</string><string name="calculate"> احسب </string><string name="Result">  :النتيجه </string><string name="anotheroperation">افعل عمليه اخرى</string></resources>

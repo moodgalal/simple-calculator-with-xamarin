@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">Simple Calculator</string>
+    <string name="FirstNumber">First Number</string>
+    <string name ="SecondNumber">Second Number</string>
+    <string name="calculate"> Calculate </string>
+    <string name="Result"> Result :  </string>
+    <string name="anotheroperation">Make another summation </string>
+</resources>
